@@ -1,0 +1,11 @@
+Download the mywordpress folder and put it in this path
+
+C:\xampp\htdocs\......
+
+
+
+
+http://localhost/mywordpress/wp-login.php
+
+Username   - Admin
+Password   - Admin1234///
